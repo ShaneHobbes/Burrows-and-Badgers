@@ -58,7 +58,7 @@
         </profile>
       </profiles>
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="28"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="29"/>
       </costs>
       <entryLinks>
         <entryLink import="true" name="Equipment" hidden="false" id="5fc1-1c07-555e-8bed" type="selectionEntryGroup" targetId="ed92-be87-4800-6d11"/>
@@ -136,7 +136,7 @@
         </profile>
       </profiles>
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="27"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="28"/>
       </costs>
       <entryLinks>
         <entryLink import="true" name="Equipment" hidden="false" id="3aeb-daeb-5c14-f3aa" type="selectionEntryGroup" targetId="ed92-be87-4800-6d11"/>
@@ -175,7 +175,7 @@
         </profile>
       </profiles>
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="29"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="31"/>
       </costs>
       <entryLinks>
         <entryLink import="true" name="Equipment" hidden="false" id="63bb-fc24-22a1-1362" type="selectionEntryGroup" targetId="ed92-be87-4800-6d11"/>
@@ -214,7 +214,7 @@
         </profile>
       </profiles>
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="34"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="42"/>
       </costs>
       <entryLinks>
         <entryLink import="true" name="Equipment" hidden="false" id="dc7a-bacf-0966-dbcd" type="selectionEntryGroup" targetId="ed92-be87-4800-6d11"/>
@@ -253,7 +253,7 @@
         </profile>
       </profiles>
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="30"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="29"/>
       </costs>
       <entryLinks>
         <entryLink import="true" name="Equipment" hidden="false" id="9542-6a53-d546-58ca" type="selectionEntryGroup" targetId="ed92-be87-4800-6d11"/>
@@ -354,7 +354,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Black Rat" hidden="false" id="626a-22f6-e8c7-918e">
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="33"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="31"/>
       </costs>
       <profiles>
         <profile name="Black Rat" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="dab5-7023-1046-5a04">
@@ -393,7 +393,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Ferret" hidden="false" id="7250-b9b4-666d-a1e7">
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="42"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="49"/>
       </costs>
       <profiles>
         <profile name="Ferret" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="5877-e0d1-02d3-a82d">
@@ -432,7 +432,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Rabbit" hidden="false" id="ab25-ac4b-bf83-ae1e">
       <costs>
-        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="31"/>
+        <cost name="Pennies" typeId="dcf3-a503-8ad0-b2d5" value="28"/>
       </costs>
       <profiles>
         <profile name="Rabbit" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="86ed-e546-aed4-1fa5">
@@ -471,7 +471,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Toad" hidden="false" id="a70d-42d8-db60-6078">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="52"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="48"/>
       </costs>
       <profiles>
         <profile name="Toad" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="c75e-ab66-773e-3b72">
@@ -510,7 +510,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Frog" hidden="false" id="34e0-3e55-f91d-e99f">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="26"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="28"/>
       </costs>
       <profiles>
         <profile name="Frog" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="c087-d426-5a65-fb36">
@@ -549,7 +549,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Adder" hidden="false" id="89f2-b856-1b5b-aa09">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="36"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="43"/>
       </costs>
       <profiles>
         <profile name="Adder" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="5f7a-b0b7-ed6d-aa3f">
@@ -588,7 +588,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Bird (medium)" hidden="false" id="d974-4f0a-55be-8eba">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="30"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="33"/>
       </costs>
       <profiles>
         <profile name="Bird (medium)" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="e80a-5d86-63d3-dd73">
@@ -627,7 +627,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Raptor (medium)" hidden="false" id="a05d-d7df-95a4-24ba">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="42"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="43"/>
       </costs>
       <profiles>
         <profile name="Raptor (medium)" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="a962-e7f4-91a8-9aec">
@@ -666,7 +666,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Hound (medium)" hidden="false" id="9f58-199f-9be9-0e2d">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="30"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="31"/>
       </costs>
       <profiles>
         <profile name="Hound (medium)" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="888c-6d43-d9a9-9791">
@@ -705,7 +705,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Marmot" hidden="false" id="0a0c-2ba0-7655-2e36">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="23"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="25"/>
       </costs>
       <profiles>
         <profile name="Marmot (rare)" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="6338-4e60-b564-be18">
@@ -746,7 +746,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Green Lizard" hidden="false" id="6fa8-45d3-ab7e-488d">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="28"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="27"/>
       </costs>
       <profiles>
         <profile name="Green Lizard (rare)" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="87eb-b1ca-cf61-d189">
@@ -787,7 +787,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Siamese Cat" hidden="false" id="acf4-41fb-38e4-9075">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="35"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="36"/>
       </costs>
       <profiles>
         <profile name="Siamese Cat" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="ee94-3b7c-3b9e-55ea">
@@ -828,7 +828,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Tortoise" hidden="false" id="44c1-fc0d-bfe7-d684">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="36"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="38"/>
       </costs>
       <profiles>
         <profile name="Tortoise (rare)" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="663d-d377-3587-7b46">
@@ -869,7 +869,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Platypus" hidden="false" id="6d25-81ed-a096-afaa">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="25"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="26"/>
       </costs>
       <profiles>
         <profile name="Platypus" typeId="accf-eeea-a7c5-3328" typeName="Character" hidden="false" id="f66f-daf4-f9e2-e7ba">
@@ -913,7 +913,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="c443-08d4-6f7e-6fe7"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="53"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="50"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -953,7 +953,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="81ac-94ec-2f8f-277c"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="62"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="64"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -993,7 +993,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="fa72-ea07-77cc-32d1"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="42"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="39"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1033,7 +1033,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="9d31-95d2-6891-77ae"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="43"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="42"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1073,7 +1073,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="1106-aaca-8789-9e02"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="51"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="49"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1113,7 +1113,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="7b51-a8dc-2b00-26ba"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="35"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="37"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1153,7 +1153,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="4119-c13c-4ba6-e502"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="50"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="53"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1193,7 +1193,7 @@
         <constraint type="max" value="6" field="c8de-adc4-8aae-4b3c" scope="self" shared="true" id="7612-1002-bb3d-6adf"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="45"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="43"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1275,7 +1275,7 @@
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0ace-b2c3-c075-ab3d"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="62"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="61"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1316,7 +1316,7 @@
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0e29-5a80-fb8d-791b"/>
       </constraints>
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="35"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="40"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <profiles>
@@ -1353,7 +1353,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Badger" hidden="false" id="66a4-d461-0c77-866d">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="65"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="67"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <entryLinks>
@@ -1396,7 +1396,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Beaver" hidden="false" id="98e7-fa1a-ad4d-1c30">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="60"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="61"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <entryLinks>
@@ -1439,7 +1439,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Bird (massive)" hidden="false" id="8a18-3594-d92a-3bb8">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="40"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="42"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <entryLinks>
@@ -1482,7 +1482,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Raptor (massive)" hidden="false" id="f427-ff50-d990-b0cd">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="64"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="65"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <entryLinks>
@@ -1525,7 +1525,7 @@
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Hound (massive)" hidden="false" id="196d-6306-ab22-8f0d">
       <costs>
-        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="65"/>
+        <cost name="P" typeId="dcf3-a503-8ad0-b2d5" value="59"/>
         <cost name="Equipment" typeId="c8de-adc4-8aae-4b3c" value="0"/>
       </costs>
       <entryLinks>
